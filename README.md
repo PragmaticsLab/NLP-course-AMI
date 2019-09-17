@@ -9,3 +9,8 @@ Week 2
 * Lecture: Word embeddings
 * Practical: word2vec, fasttext, basic text classification
 * Quiz: https://forms.gle/DiS9rBskgxXxD6Hy6 
+
+
+Week 3
+* Lecture & Practical: CNN for text classification
+* Quiz: https://forms.gle/mowmk9LgLG1yyLrh7
