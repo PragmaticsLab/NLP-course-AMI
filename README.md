@@ -14,3 +14,4 @@ Week 2
 Week 3
 * Lecture & Practical: CNN for text classification
 * Quiz: https://forms.gle/mowmk9LgLG1yyLrh7
+* Homework 1 
