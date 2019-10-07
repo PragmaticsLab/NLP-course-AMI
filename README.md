@@ -15,3 +15,10 @@ Week 3
 * Lecture & Practical: CNN for text classification
 * Quiz: https://forms.gle/mowmk9LgLG1yyLrh7
 * Homework 1 
+
+Week 4: 
+* Lecture & Practical: Language modelling
+
+Week 5:
+* Lecture & Practical: Syntax parsing
+* Quiz: https://forms.gle/WePgRurr4w9HLgW59
