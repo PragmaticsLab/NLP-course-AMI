@@ -22,3 +22,6 @@ Week 4:
 Week 5:
 * Lecture & Practical: Syntax parsing
 * Quiz: https://forms.gle/WePgRurr4w9HLgW59
+
+Week 6
+* Seminar: Seq2seq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/sem6_seq2seq/6_seq2seq.ipynb)
