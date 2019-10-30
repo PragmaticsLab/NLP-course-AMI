@@ -32,6 +32,7 @@ Week 7:
 
 Week 8:
 * Lecture: Transfer learning in NLP, part 2
+* Quiz: https://forms.gle/tfv6Ki6CW4pNui4u8
 
 Week 9
 * Lecture: Question answering
