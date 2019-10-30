@@ -24,4 +24,15 @@ Week 5:
 * Quiz: https://forms.gle/WePgRurr4w9HLgW59
 
 Week 6
+* Lecture: Machine translation
 * Seminar: Seq2seq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PragmaticsLab/NLP-course-FinTech/blob/master/seminars/sem6_seq2seq/6_seq2seq.ipynb)
+
+Week 7:
+* Lecture: Transfer learning in NLP, part 1
+
+Week 8:
+* Lecture: Transfer learning in NLP, part 2
+
+Week 9
+* Lecture: Question answering
+* Homework 3
