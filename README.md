@@ -37,3 +37,7 @@ Week 8:
 Week 9
 * Lecture: Question answering
 * Homework 3
+
+Week 10
+* Lecture: Summarization and simplification
+* Quiz: https://forms.gle/JyCybZkzSM5eSQAu5
